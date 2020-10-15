@@ -1,0 +1,5 @@
+print ("*"*16, "FACULDADE CESUSC","*"*16 )
+print("* Curso: Análise e Desenvolvimento de Sistemas    *")
+print("* Aluno: Milena Pereira Torres ")
+print("* Professor: Roberto Fabiano Fernandes      *")
+print("*"*40)
